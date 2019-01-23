@@ -2,6 +2,13 @@
 
 ## Planning
 
+### Goal
+
+### Resources and Constraints
+
+### Design
+
+### 
 ### Schedule
 
 February 2nd- Finish Planning
