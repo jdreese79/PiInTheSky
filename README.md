@@ -10,10 +10,18 @@ Resources: 3D printer, laser cutter, soldering set, hand tools
 Constraints: time and materials (we can't use too much material and we are not limetless in our resources)
 
 ### Solution
-We want to create a disk-shaped enclosure for our pi (and all of its related components for this project) to be shot out of a sling shot that we will also make. 
+We want to create an enclosure shaped like a slice of pie for our pi (and all of its related components for this project) to be shot out of a sling shot that we will also make. 
 
 ### Materials
-& g
+- Raspberry Pi Zero
+- Lithium Battery
+- Accelerometer
+- PowerBoost 500 Charger
+- LED (to signle top of flight)
+
+- acrylic/laser cutter
+- 3D printer
+
 
 ### Design
 
