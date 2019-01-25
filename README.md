@@ -33,14 +33,38 @@ We want to create an enclosure shaped like a slice of pie for our pi (and all of
 
 ### Schedule
 
-February 2nd- Finish Planning
+February 1st- Finish Planning
 
-Febrary 9th-
+Febrary 8th-
 
-February 16th-
+February 15th-
 
-February 23rd-
+February 22nd-
 
-March 2nd-
+March 1st-
 
-March 9th-
+March 8th-
+
+March 15th-
+
+March 22nd- 
+
+March 29th-
+
+April 12th-
+
+April 19th-
+
+April 26th-
+
+May 3rd-
+
+May 10th-
+
+May 17th-
+
+May 24th-
+
+May 31st- 
+
+
