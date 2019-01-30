@@ -19,9 +19,12 @@ We want to create an enclosure shaped like a slice of pie for our pi (and all of
 - PowerBoost 500 Charger
 - LED (to signal top of flight)
 
+
 - acrylic/laser cutter
 - 3D printer
 
+
+-styrofoam
 
 ### Design
 
