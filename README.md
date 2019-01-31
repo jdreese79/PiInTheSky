@@ -23,7 +23,7 @@ We want to create an enclosure shaped like a slice of pie for our pi (and all of
 - styrofoam
 
 ### Design
-![PiInTheSkyPlanning](https://drive.google.com/file/d/0Bw0hAF60bUXrN3BReWwzY1YxdElCOE1EdF9XUEtjUnVHRVc0/view?usp=sharing)
+![PiInTheSkyPlanning](https://github.com/jdreese79/PiInTheSky/blob/master/IMG_8211.jpg)
 
 
 ### Process
