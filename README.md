@@ -36,7 +36,7 @@ February 1st- Finish Planning
 
 Febrary 8th- solidworks design complete/ progress on the code
 
-February 15th- solidowrks parts printed out
+February 15th- solidworks parts printed out
 
 February 22nd- components wired/ soldering finished
 
