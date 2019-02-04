@@ -44,7 +44,7 @@ March 1st- styrofoam cut out/ progress on the code (make sure all part are corre
 
 March 8th- slingshot in progress
 
-March 15th- wood parts for slingshot cut/ get accelerometer to work at startup
+March 15th- wood parts for slingshot cut/ get accelerometer to work at startup and save all data 
 
 March 22nd- slingshot finalized/ figure out how to make LED turn on at apex
 
