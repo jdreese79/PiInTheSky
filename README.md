@@ -34,19 +34,19 @@ We want to create an enclosure shaped like a slice of pie for our pi (and all of
 
 February 1st- Finish Planning
 
-Febrary 8th- solidworks design complete/ progress on the code
+Febrary 8th- solidworks design complete
 
 February 15th- solidworks parts printed out
 
 February 22nd- components wired/ soldering finished
 
-March 1st- styrofoam cut out
+March 1st- styrofoam cut out/ progress on the code (make sure all part are correctly wired)
 
 March 8th- slingshot in progress
 
-March 15th- wood parts for slingshot cut
+March 15th- wood parts for slingshot cut/ get accelerometer to work at startup
 
-March 22nd- slingshot finalized
+March 22nd- slingshot finalized/ figure out how to make LED turn on at apex
 
 March 29th- progress on code
 
@@ -54,7 +54,7 @@ April 12th- progress on code
 
 April 19th- progress on code
 
-April 26th- progress on code... however long this takes
+April 26th- progress on code... however long this takes (final step for code: make it headless/ starts on its own at startup)
 
 May 3rd-
 
