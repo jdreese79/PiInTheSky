@@ -70,4 +70,6 @@ May 31st-
 
 2/4/19- Today we began assembling the components on solidworks. We mated a header to the pi and worked on making a bonnet to use for the solidowrks design.
 
+2/6/19-
+
 
