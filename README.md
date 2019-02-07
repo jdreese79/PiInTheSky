@@ -24,7 +24,7 @@ We want to create an enclosure shaped like a slice of pie for our pi (and all of
 
 ### Design
 ![PiInTheSkyPlanning](https://github.com/jdreese79/PiInTheSky/blob/master/IMG_8211.jpg)
-
+![PiInTheSkyFrtitzingDiagram](https://github.com/jdreese79/PiInTheSky/blob/master/elodiejackfritzingimage.PNG)
 
 ### Process
 
