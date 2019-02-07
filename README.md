@@ -72,4 +72,6 @@ May 31st-
 
 2/6/19- We continued working on the solidworks design and began working on the fritzing.
 
+2/7/19- Finished the fritzing diagram and uploaded it to github. Continued working on the solidworks design while waiting for the bonnet to come.
+
 
