@@ -34,37 +34,26 @@ We want to create an enclosure shaped like a slice of pie for our pi (and all of
 
 February 1st- Finish Planning
 
-Febrary 8th- solidworks design complete
+Februuary 8th- solidworks design almost complete
 
-February 15th- solidworks parts printed out
+Febrary 15th- solidworks design complete and ready to get printed out
 
-February 22nd- components wired/ soldering finished
+February 22nd- solidworks parts printed out
 
-March 1st- styrofoam cut out/ progress on the code (make sure all part are correctly wired)
+March 1st- components wired/ soldering finished
 
-March 8th- slingshot in progress
+March 8th- styrofoam cut out/ progress on the code (make sure all part are correctly wired)
 
-March 15th- wood parts for slingshot cut/ get accelerometer to work at startup and save all data 
+March 15th- slingshot in progress
 
-March 22nd- slingshot finalized/ figure out how to make LED turn on at apex
+March 22nd- wood parts for slingshot cut/ get accelerometer to work at startup and save all data 
 
-March 29th- progress on code
+March 29th- slingshot finalized/ figure out how to make LED turn on at apex
 
 April 12th- progress on code
 
-April 19th- progress on code
+April 19th- progress on code... however long this takes (final step for code: make it headless/ starts on its own at startup)
 
-April 26th- progress on code... however long this takes (final step for code: make it headless/ starts on its own at startup)
-
-May 3rd-
-
-May 10th-
-
-May 17th-
-
-May 24th-
-
-May 31st- 
 
 ### Timeline
 
@@ -73,5 +62,7 @@ May 31st-
 2/6/19- We continued working on the solidworks design and began working on the fritzing.
 
 2/7/19- Finished the fritzing diagram and uploaded it to github. Continued working on the solidworks design while waiting for the bonnet to come.
+
+2/8/19- We continued working on the solidworks design because the bonnet still hasn't come in yet.
 
 
