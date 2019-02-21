@@ -32,11 +32,11 @@ We want to create an enclosure shaped like a slice of pie for our pi (and all of
 
 ### Schedule
 
-February 1st- Finish Planning
+February 1st- Finish Planning (completed)
 
-Februuary 8th- solidworks design almost complete
+February 8th- solidworks design almost complete (completed)
 
-Febrary 15th- solidworks design complete and ready to get printed out
+February 15th- solidworks design complete and ready to get printed out (completed)
 
 February 22nd- solidworks parts printed out
 
@@ -64,6 +64,8 @@ April 19th- progress on code... however long this takes (final step for code: ma
 2/7/19- Finished the fritzing diagram and uploaded it to github. Continued working on the solidworks design while waiting for the bonnet to come.
 
 2/8/19- We continued working on the solidworks design because the bonnet still hasn't come in yet.
+
+2/15/19- Today we lasercut the acrylic base for the raspberry pi.
 
 2/21/19- The bonnet came in and we soldered a header to it for the raspberry pi to connect to. Next class we will solder the remaining headers and wires.
 
