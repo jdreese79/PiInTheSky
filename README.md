@@ -65,4 +65,6 @@ April 19th- progress on code... however long this takes (final step for code: ma
 
 2/8/19- We continued working on the solidworks design because the bonnet still hasn't come in yet.
 
+2/21/19- The bonnet came in and we soldered a header to it for the raspberry pi to connect to. Next class we will solder the remaining headers and wires.
+
 
