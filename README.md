@@ -38,9 +38,9 @@ February 8th- solidworks design almost complete (completed)
 
 February 15th- solidworks design complete and ready to get printed out (completed)
 
-February 22nd- solidworks parts printed out
+February 22nd- solidworks parts printed out 
 
-March 1st- components wired/ soldering finished
+March 1st- components wired/ soldering finished (completed)
 
 March 8th- styrofoam cut out/ progress on the code (make sure all part are correctly wired)
 
