@@ -69,4 +69,8 @@ April 19th- progress on code... however long this takes (final step for code: ma
 
 2/21/19- The bonnet came in and we soldered a header to it for the raspberry pi to connect to. Next class we will solder the remaining headers and wires.
 
+2/22/19- Today we finishd the soldering.
+
+2/25/19- We 3D prnted the brackets that will hold the battery in place. We also planned out how we're going to make the slingshot and the pie slice.
+
 
