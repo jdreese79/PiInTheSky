@@ -73,4 +73,11 @@ April 19th- progress on code... however long this takes (final step for code: ma
 
 2/25/19- We 3D printed the brackets that will hold the battery in place. We also planned out how we're going to make the slingshot and the pie slice.
 
+2/27/19- Today we finishing the wiring and started working on the styrofoam pie slice.
+
+2/28/19- We finished cutting out all of the layers of the pie slice.
+
+3/1/19- Today we glued together all of the styrofoam layers.
+
+
 
