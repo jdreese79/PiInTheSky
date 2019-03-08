@@ -81,7 +81,9 @@ April 19th- progress on code... however long this takes (final step for code: ma
 
 3/6/19- We decided to use our styrofoam model as a prototype and then rebuiltthe pie slice using more durable material. We used a more precise way of cutting the layers to create a cleaner shape.
 
-3/7/19- Today we glued the layers together and cut a rectangle out of the center. Finally we cutt a small circle out of the top layer to fit the LED mount inside (to act as a cherry on a piece of pie).
+3/7/19- Today we glued the layers together and cut a rectangle out of the center. Finally we cut a small circle out of the top layer to fit the LED mount inside (to act as a cherry on a piece of pie).
+
+3/8/19- Today we worked on creating a model of the pie on solidworks so that we can upload renderings to the wiki.
 
 
 
