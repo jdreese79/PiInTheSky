@@ -38,17 +38,17 @@ February 8th- solidworks design almost complete (completed)
 
 February 15th- solidworks design complete and ready to get printed out (completed)
 
-February 22nd- solidworks parts printed out 
+February 22nd- solidworks parts printed out (completed)
 
 March 1st- components wired/ soldering finished (completed)
 
-March 8th- styrofoam cut out/ progress on the code (make sure all part are correctly wired)
+March 8th- styrofoam cut out (completed)
 
-March 15th- slingshot in progress
+March 15th- begin slingshot (completed)
 
-March 22nd- wood parts for slingshot cut/ get accelerometer to work at startup and save all data 
+March 22nd- wood parts for slingshot cut and assembled (completed)
 
-March 29th- slingshot finalized/ figure out how to make LED turn on at apex
+March 29th- slingshot finalized/ all parts painted
 
 April 12th- progress on code
 
