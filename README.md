@@ -79,11 +79,21 @@ April 19th- progress on code... however long this takes (final step for code: ma
 
 3/1/19- Today we glued together all of the styrofoam layers.
 
-3/6/19- We decided to use our styrofoam model as a prototype and then rebuiltthe pie slice using more durable material. We used a more precise way of cutting the layers to create a cleaner shape.
+3/6/19- We decided to use our styrofoam model as a prototype and then rebuilt the pie slice using more durable material. We used a more precise way of cutting the layers to create a cleaner shape.
 
 3/7/19- Today we glued the layers together and cut a rectangle out of the center. Finally we cut a small circle out of the top layer to fit the LED mount inside (to act as a cherry on a piece of pie).
 
 3/8/19- Today we worked on creating a model of the pie on solidworks so that we can upload renderings to the wiki.
 
+3/11/19- After completing the pie and the model of the pie, we began brainstorming how we were going to make the slingshot.
 
+3/13/19- We gathered all of the neccesary pieces of wood to cut and then put together to make the slingshot. We marked off the parts of the wood to be cut to make it the desired length.
+
+3/14/19- We learned how to use the power saw and cut all of our pieces the appropriate length. We then began drilling the screws.
+
+3/15/19- The angle of the screws made it so that they stick out a lot and didn't securly hold the wood in place. We tried adding a second screw on each side to fix the problme, though this only made it worse.
+
+3/18/19- We decided that we would start over on the slingshot and use the first attempt as a rough draft. We decided to alter the design slightly from our initial design, which had the flanks coming out at an angle, and make it so the slingshot resembled the uprights in football. This would hopefully make it easier to drill in the screws. We cut all of the pieces using scraps from the original attempt.
+
+3/20/19- We screwed the wood pieces together and added a stand to keep it standing upright without us holding it. We also started making a soldworks rendering of it.
 
