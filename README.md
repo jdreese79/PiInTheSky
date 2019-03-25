@@ -91,9 +91,9 @@ April 19th- progress on code... however long this takes (final step for code: ma
 
 3/14/19- We learned how to use the power saw and cut all of our pieces the appropriate length. We then began drilling the screws.
 
-3/15/19- The angle of the screws made it so that they stick out a lot and didn't securly hold the wood in place. We tried adding a second screw on each side to fix the problme, though this only made it worse.
+3/15/19- The angle of the screws made it so that they stick out a lot and didn't securly hold the wood in place. We tried adding a second screw on each side to fix the problem, though this only made it worse.
 
 3/18/19- We decided that we would start over on the slingshot and use the first attempt as a rough draft. We decided to alter the design slightly from our initial design, which had the flanks coming out at an angle, and make it so the slingshot resembled the uprights in football. This would hopefully make it easier to drill in the screws. We cut all of the pieces using scraps from the original attempt.
 
-3/20/19- We screwed the wood pieces together and added a stand to keep it standing upright without us holding it. We also started making a soldworks rendering of it.
+3/20/19- We screwed the wood pieces together and added a stand to keep it standing upright without us holding it. We also started making a solidworks rendering of it.
 
