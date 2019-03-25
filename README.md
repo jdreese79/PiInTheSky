@@ -97,3 +97,4 @@ April 19th- progress on code... however long this takes (final step for code: ma
 
 3/20/19- We screwed the wood pieces together and added a stand to keep it standing upright without us holding it. We also started making a solidworks rendering of it.
 
+3/25/19- Today we began working on the code for our project.
