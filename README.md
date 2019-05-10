@@ -112,3 +112,5 @@ April 19th- progress on code... however long this takes (final step for code: ma
 5/6/19- Today we teste out spray paint on the styrofoam then decided to use regular paint to paint our pie slice.
 
 5/8/19- Today we began to decorate our slice of pie with cherry colors. 
+
+5/9/19- Today we finished decporating our pi slice amnd now all we have to do is finish the code.
