@@ -26,10 +26,6 @@ We want to create an enclosure shaped like a slice of pie for our pi (and all of
 ![PiInTheSkyPlanning](https://github.com/jdreese79/PiInTheSky/blob/master/IMG_8211.jpg)
 ![PiInTheSkyFrtitzingDiagram](https://github.com/jdreese79/PiInTheSky/blob/master/elodiejackfriztingimage.PNG)
 
-### Process
-
-
-
 ### Schedule
 
 February 1st- Finish Planning (completed)
@@ -116,3 +112,7 @@ April 19th- progress on code... however long this takes (final step for code: ma
 5/9/19- Today we finished decorating our pi slice and now all we have to do is finish the code.
 
 6/3/18- Today we finally completed our code. We put our project together and launched it, then were able to collect the data.
+
+### Obstacles and Challenges
+
+    There were many challenges throughout this project. We used up until the very last day to finally complete it. One of the earlier issues was figuring out how exactly we were going to complete this project. To solve this issue, we had to really understamd what the guidelines wer asking of the project and we had to brainstorm different ways we could go about figuring it out. Wiring our pi also brought up some issues. Our code wouldn't work at first because we didn't wire the bonnet correctly. We solved the issues with the bonnet by creating soldering bridges between the where the wires were and where they needed to go. We also had to do a lot of research to figure out how to wire a battery pack to the pi. The code wasn't as challenging as we expected, though it did pose some obstacles. Two of the biggest challenges were finding the correct equations to determine the time that the pi reached the top of its flight, and making the pi run headless. We used our physics knowledge to ome up with a series of equations to determine the time. The code for this portion was pretty basic. Making thecode run headless went smoothly after we found a really helpful website. The issue with the code running headless, though, was that the data wouldn't save to a text file when it wasn't connected tp the computer. We solved this by changing the headless code from rc.local to bash. 
