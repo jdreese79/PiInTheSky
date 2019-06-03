@@ -121,4 +121,9 @@ April 19th- progress on code... however long this takes (final step for code: ma
 
   Our final product is a pie slice made out of styrofoam with an LED "cherry" and an on/off switch at the top. Inside, is a raspberry pi wired with a powerboost and an accelerometer. When it is turned on, the pi reboots and the LED blinks twice at startup. After this, you can shoot the pi out of the slingshot that we made, and the LED will blink once at the apex of its flight. The LED will then quickly blink twice signaling that the data is being saved and the code is turned off. You can then access the data collected after plugging the pi back into the monitor.
   
+  
 ![Final Image]( https://github.com/jdreese79/Engineering_4_Notebook/blob/master/pieslicefinalpicture.PNG)
+
+![Final Data From Flight](https://github.com/jdreese79/PiInTheSky/blob/master/datapi.PNG)
+
+The datat hsows that once the pi started up, the acceleration was 1 m/s^2 and then 7 m/s^2. Then, the pi stopped collected acceleration data and used the second to last integer, which was 1, to calculate the time at which the flight reaches its height. The time that the pie reach its height at 2.09 seconds. After this, the pi shut off and created a file with all of this data. 
