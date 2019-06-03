@@ -113,4 +113,6 @@ April 19th- progress on code... however long this takes (final step for code: ma
 
 5/8/19- Today we began to decorate our slice of pie with cherry colors. 
 
-5/9/19- Today we finished decporating our pi slice and now all we have to do is finish the code.
+5/9/19- Today we finished decorating our pi slice and now all we have to do is finish the code.
+
+6/3/18- Today we finally completed our code. We put our project together and launched it, then were able to collect the data.
